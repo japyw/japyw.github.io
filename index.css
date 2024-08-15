@@ -164,7 +164,7 @@ header table {
 #rightImage {
     width:100%;
     height:95vh;
-    background:url("/img/jon.jpg") center center;
+    background-image:url("/img/jon.jpg");
     background-size:cover;
     background-repeat:no-repeat;
 }
